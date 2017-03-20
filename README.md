@@ -1,4 +1,3 @@
-# Web-Security-week7
 
 # Project 7 - WordPress Pentesting
 
